@@ -1,0 +1,11 @@
+Main            -   main executable
+Frame           -   output screen
+Sorting Panel   -   main screen in frame
+Button Model    -   buttons in screen
+
+Sorting Algorithm
+    Bubble
+    Selection
+    Insertion
+    Merge
+    Quick
